@@ -1,6 +1,6 @@
 import random
 mods=[]
-model = open('/deku/oppo.txt','r').readlines()
+model = open('oppo.txt','r').readlines()
 
 for models in model:
        mods.append(models)
